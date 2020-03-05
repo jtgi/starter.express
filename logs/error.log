@@ -1,0 +1,35 @@
+error: no user found {"statusCode":404}
+error: no user found {"statusCode":404}
+error: crypto is not defined
+error: crypto is not defined
+error: crypto is not defined
+error: user is not defined
+error: fields is not defined
+error: username taken
+error: username taken
+error: username taken
+error: username taken
+error: Cannot read property 'concat' of undefined
+error: no user found {"statusCode":404}
+error: invalid login credentials {"statusCode":401}
+error: no user found {"statusCode":404}
+error: logger is not defined
+error: Could not find user {"statusCode":404}
+error: Could not find user {"statusCode":404}
+error: HttpException is not defined
+error: HttpException is not defined {"service":"twitter"}
+error: unauthorized {"statusCode":401,"service":"twitter"}
+error: unauthorized {"statusCode":401,"service":"twitter"}
+error: no user found {"statusCode":404,"service":"twitter"}
+error: unauthorized {"statusCode":401,"service":"twitter"}
+error: unauthorized {"statusCode":401,"service":"twitter"}
+error: unauthorized {"statusCode":401,"service":"twitter"}
+error: unauthorized {"statusCode":401,"service":"twitter"}
+error: unauthorized {"statusCode":401,"service":"twitter"}
+error: unexpected error. message: exports.decode is not a function {"service":"twitter"}
+error: unexpected error. message: Cannot access 'header' before initialization {"service":"twitter"}
+error: unexpected error. message: moment is not defined {"service":"twitter"}
+error: unexpected error. message: moment(...).isBeforeNow is not a function {"service":"twitter"}
+error: unexpected error. message: logger is not defined {"service":"twitter"}
+error: unexpected error. message: model.create is not a function
+error: unexpected error. message: model.create is not a function

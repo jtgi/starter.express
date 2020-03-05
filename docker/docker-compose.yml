@@ -1,0 +1,22 @@
+version: '3'
+services:
+  redis-server:
+    image: redis
+    volumes:
+      - ./data:/data
+  app:
+    build: .
+    command: npm run dev
+    volumes:
+      - .:/usr/app
+      - /usr/app/node_modules
+    ports:
+      - 3000:3000
+    environment:
+      - NODE_ENV=dev
+      - PORT=3000
+      - REDIS_PORT=6379
+      - SERVICE_NAME=twitter
+      - LOG_LEVEL=debug
+      - LOG_DIR=./logs
+      - SECRET=iliketurtles

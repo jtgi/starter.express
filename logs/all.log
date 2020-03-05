@@ -1,0 +1,262 @@
+info: Welcome to Twitter:3000
+error: no user found {"statusCode":404}
+error: no user found {"statusCode":404}
+info: Welcome to Twitter:3000
+info: Welcome to Twitter:3000
+info: Welcome to Twitter:3000
+info: Welcome to Twitter:3000
+info: Welcome to Twitter:3000
+info: Welcome to Twitter:3000
+info: Welcome to Twitter:3000
+info: Welcome to Twitter:3000
+error: crypto is not defined
+info: Welcome to Twitter:3000
+info: Welcome to Twitter:3000
+info: Welcome to Twitter:3000
+error: crypto is not defined
+error: crypto is not defined
+info: Welcome to Twitter:3000
+error: user is not defined
+info: Welcome to Twitter:3000
+info: Welcome to Twitter:3000
+info: Welcome to Twitter:3000
+info: Welcome to Twitter:3000
+info: Welcome to Twitter:3000
+info: Welcome to Twitter:3000
+info: Welcome to Twitter:3000
+error: fields is not defined
+info: Welcome to Twitter:3000
+error: username taken
+info: Welcome to Twitter:3000
+info: Welcome to Twitter:3000
+info: Welcome to Twitter:3000
+info: Welcome to Twitter:3000
+info: Welcome to Twitter:3000
+info: Welcome to Twitter:3000
+info: Welcome to Twitter:3000
+info: Welcome to Twitter:3000
+info: Welcome to Twitter:3000
+info: Welcome to Twitter:3000
+info: Welcome to Twitter:3000
+info: Welcome to Twitter:3000
+info: Welcome to Twitter:3000
+error: username taken
+error: username taken
+info: 2020-02-09T20:49:16.118Z ::ffff:172.21.0.1 localhost 200 POST /login
+info: Welcome to Twitter:3000
+info: Welcome to Twitter:3000
+info: 2020-02-09T20:50:39.932Z ::ffff:172.21.0.1 localhost 200 POST /login
+info: Welcome to Twitter:3000
+info: 2020-02-09T20:51:34.647Z ::ffff:172.21.0.1 localhost 200 POST /login
+info: 2020-02-09T20:51:44.753Z ::ffff:172.21.0.1 localhost 200 POST /login
+info: Welcome to Twitter:3000
+info: 2020-02-09T20:52:38.788Z ::ffff:172.21.0.1 localhost 200 POST /login
+error: username taken
+info: 2020-02-09T20:53:10.168Z ::ffff:172.21.0.1 localhost 200 POST /login
+error: Cannot read property 'concat' of undefined
+info: Welcome to Twitter:3000
+error: no user found {"statusCode":404}
+error: invalid login credentials {"statusCode":401}
+info: Welcome to Twitter:3000
+error: no user found {"statusCode":404}
+info: Welcome to Twitter:3000
+info: Welcome to Twitter:3000
+info: Welcome to Twitter:3000
+info: Welcome to Twitter:3000
+info: Welcome to Twitter:3000
+info: Welcome to Twitter:3000
+info: Welcome to Twitter:3000
+info: Welcome to Twitter:3000
+info: Welcome to Twitter:3000
+info: Welcome to Twitter:3000
+info: Welcome to Twitter:3000
+info: Welcome to Twitter:3000
+info: Welcome to Twitter:3000
+info: Welcome to Twitter:3000
+info: Welcome to Twitter:3000
+info: Welcome to Twitter:3000
+info: Welcome to Twitter:3000
+info: Welcome to Twitter:3000
+info: Welcome to Twitter:3000
+info: Welcome to Twitter:3000
+info: Welcome to Twitter:3000
+info: Welcome to Twitter:3000
+info: Welcome to Twitter:3000
+info: Welcome to Twitter:3000
+info: Welcome to Twitter:3000
+info: Welcome to Twitter:3000
+info: Welcome to Twitter:3000
+info: Welcome to Twitter:3000
+info: Welcome to Twitter:3000
+info: Welcome to Twitter:3000
+info: Welcome to Twitter:3000
+info: Welcome to Twitter:3000
+info: Welcome to Twitter:3000
+info: Welcome to Twitter:3000
+info: Welcome to Twitter:3000
+info: Welcome to Twitter:3000
+info: Welcome to Twitter:3000
+info: Welcome to Twitter:3000
+info: Welcome to Twitter:3000
+info: Welcome to Twitter:3000
+info: Welcome to Twitter:3000
+info: Welcome to Twitter:3000
+info: Welcome to Twitter:3000
+info: Welcome to Twitter:3000
+info: Welcome to Twitter:3000
+info: Welcome to Twitter:3000
+info: Welcome to Twitter:3000
+info: Welcome to Twitter:3000
+info: Welcome to Twitter:3000
+info: Welcome to Twitter:3000
+info: Welcome to Twitter:3000
+info: Welcome to Twitter:3000
+info: Welcome to Twitter:3000
+info: Welcome to Twitter:3000
+info: Welcome to Twitter:3000
+info: Welcome to Twitter:3000
+info: Welcome to Twitter:3000
+info: Welcome to Twitter:3000
+info: Welcome to Twitter:3000
+error: logger is not defined
+info: Welcome to Twitter:3000
+error: Could not find user {"statusCode":404}
+info: Welcome to Twitter:3000
+info: Welcome to Twitter:3000
+error: Could not find user {"statusCode":404}
+info: Welcome to Twitter:3000
+info: Welcome to Twitter:3000
+info: authorized: %s
+error: HttpException is not defined
+info: Welcome to Twitter:3000 {"service":"twitter"}
+debug: authorization invalid: %s {"service":"twitter"}
+info: authorized: %s {"service":"twitter"}
+error: HttpException is not defined {"service":"twitter"}
+info: Welcome to Twitter:3000 {"service":"twitter"}
+debug: authorization invalid: %s {"service":"twitter"}
+info: authorized: %s {"service":"twitter"}
+error: unauthorized {"statusCode":401,"service":"twitter"}
+info: Welcome to Twitter:3000 {"service":"twitter"}
+debug: authorization invalid: %s {"service":"twitter"}
+info: authorized {"service":"twitter"}
+error: unauthorized {"statusCode":401,"service":"twitter"}
+debug: authorization invalid: %s {"service":"twitter"}
+error: no user found {"statusCode":404,"service":"twitter"}
+debug: authorization invalid: %s {"service":"twitter"}
+debug: authorization invalid: %s {"service":"twitter"}
+info: authorized {"service":"twitter"}
+error: unauthorized {"statusCode":401,"service":"twitter"}
+debug: authorization invalid: %s {"service":"twitter"}
+info: authorized {"service":"twitter"}
+error: unauthorized {"statusCode":401,"service":"twitter"}
+debug: authorization invalid: %s {"service":"twitter"}
+info: authorized {"service":"twitter"}
+error: unauthorized {"statusCode":401,"service":"twitter"}
+info: Welcome to Twitter:3000 {"service":"twitter"}
+debug: authorization invalid: %s {"service":"twitter"}
+info: authorized {"service":"twitter"}
+error: unauthorized {"statusCode":401,"service":"twitter"}
+info: Welcome to Twitter:3000 {"service":"twitter"}
+debug: authorization invalid: Bearer {"service":"twitter"}
+info: authorized {"service":"twitter"}
+error: unauthorized {"statusCode":401,"service":"twitter"}
+info: Welcome to Twitter:3000 {"service":"twitter"}
+debug: authorization invalid: Bearer {"service":"twitter"}
+info: authorized {"service":"twitter"}
+info: unauthorized {"statusCode":401,"service":"twitter"}
+info: Welcome to Twitter:3000 {"service":"twitter"}
+info: Welcome to Twitter:3000 {"service":"twitter"}
+info: Welcome to Twitter:3000 {"service":"twitter"}
+debug: authorization invalid: Bearer {"service":"twitter"}
+info: authorized {"service":"twitter"}
+info: unauthorized {"statusCode":401,"service":"twitter"}
+debug: authorization invalid: Bearer {"service":"twitter"}
+info: authorized {"service":"twitter"}
+info: unauthorized {"statusCode":401,"service":"twitter"}
+debug: authorization invalid: undefined {"service":"twitter"}
+error: unexpected error. message: exports.decode is not a function {"service":"twitter"}
+info: Welcome to Twitter:3000 {"service":"twitter"}
+debug: authorization invalid: undefined {"service":"twitter"}
+error: unexpected error. message: Cannot access 'header' before initialization {"service":"twitter"}
+info: Welcome to Twitter:3000 {"service":"twitter"}
+debug: authorization invalid: undefined {"service":"twitter"}
+info: user jtgi is authorized, expires at Sun Feb 09 2020 21:48:36 GMT-0000 (Coordinated Universal Time)60 {"service":"twitter"}
+info: authorized {"service":"twitter"}
+info: user jtgi is authorized, expires at Sun Feb 09 2020 21:48:36 GMT-0000 (Coordinated Universal Time)60 {"service":"twitter"}
+info: authorized {"service":"twitter"}
+info: user jtgi is authorized, expires at Sun Feb 09 2020 21:48:36 GMT-0000 (Coordinated Universal Time)60 {"service":"twitter"}
+info: authorized {"service":"twitter"}
+info: user jtgi is authorized, expires at Sun Feb 09 2020 21:48:36 GMT-0000 (Coordinated Universal Time)60 {"service":"twitter"}
+info: authorized {"service":"twitter"}
+info: user jtgi is authorized, expires at Sun Feb 09 2020 21:48:36 GMT-0000 (Coordinated Universal Time)60 {"service":"twitter"}
+info: authorized {"service":"twitter"}
+info: user jtgi is authorized, expires at Sun Feb 09 2020 21:48:36 GMT-0000 (Coordinated Universal Time)60 {"service":"twitter"}
+info: authorized {"service":"twitter"}
+info: user jtgi is authorized, expires at Sun Feb 09 2020 21:48:36 GMT-0000 (Coordinated Universal Time)60 {"service":"twitter"}
+info: authorized {"service":"twitter"}
+info: user jtgi is authorized, expires at Sun Feb 09 2020 21:48:36 GMT-0000 (Coordinated Universal Time)60 {"service":"twitter"}
+info: authorized {"service":"twitter"}
+info: user jtgi is authorized, expires at Sun Feb 09 2020 21:48:36 GMT-0000 (Coordinated Universal Time)60 {"service":"twitter"}
+info: authorized {"service":"twitter"}
+info: Welcome to Twitter:3000 {"service":"twitter"}
+info: Welcome to Twitter:3000 {"service":"twitter"}
+info: Welcome to Twitter:3000 {"service":"twitter"}
+info: Welcome to Twitter:3000 {"service":"twitter"}
+info: Welcome to Twitter:3000 {"service":"twitter"}
+debug: authorization invalid: undefined {"service":"twitter"}
+error: unexpected error. message: moment is not defined {"service":"twitter"}
+info: Welcome to Twitter:3000 {"service":"twitter"}
+debug: authorization invalid: undefined {"service":"twitter"}
+error: unexpected error. message: moment(...).isBeforeNow is not a function {"service":"twitter"}
+info: Welcome to Twitter:3000 {"service":"twitter"}
+info: jwt is expired {"service":"twitter"}
+info: authorized {"service":"twitter"}
+info: unauthorized {"statusCode":401,"service":"twitter"}
+info: Welcome to Twitter:3000 {"service":"twitter"}
+info: Welcome to Twitter:3000 {"service":"twitter"}
+error: unexpected error. message: logger is not defined {"service":"twitter"}
+info: Welcome to Twitter:3000 {"service":"twitter"}
+info: Sun Feb 09 2020 21:56:10 GMT-0000 (Coordinated Universal Time)60 {"service":"twitter"}
+info: jwt is expired {"service":"twitter"}
+info: authorized {"service":"twitter"}
+info: unauthorized {"statusCode":401,"service":"twitter"}
+info: Welcome to Twitter:3000 {"service":"twitter"}
+info: Welcome to Twitter:3000 {"service":"twitter"}
+info: Welcome to Twitter:3000 {"service":"twitter"}
+info: Sun Feb 09 2020 21:56:10 GMT-0000 (Coordinated Universal Time)60 {"service":"twitter"}
+info: user jtgi is authorized, expires at Sun Feb 09 2020 21:56:10 GMT-0000 (Coordinated Universal Time)60 {"service":"twitter"}
+info: authorized {"service":"twitter"}
+info: Could not find user {"statusCode":404,"service":"twitter"}
+info: Welcome to Twitter:3000 {"service":"twitter"}
+info: Sun Feb 09 2020 21:56:10 GMT-0000 (Coordinated Universal Time)60 {"0":"2","1":"0","2":"2","3":"0","4":"-","5":"0","6":"2","7":"-","8":"0","9":"9","10":"T","11":"2","12":"2","13":":","14":"0","15":"1","16":":","17":"3","18":"8","19":".","20":"0","21":"9","22":"8","23":"Z","service":"twitter"}
+info: user jtgi is authorized, expires at Sun Feb 09 2020 21:56:10 GMT-0000 (Coordinated Universal Time)60 {"service":"twitter"}
+info: authorized {"service":"twitter"}
+info: Could not find user {"statusCode":404,"service":"twitter"}
+info: Welcome to Twitter:3000 {"service":"twitter"}
+info: Welcome to Twitter:3000 {"service":"twitter"}
+info: Welcome to Twitter:3000 {"service":"twitter"}
+info: Hello World:8080
+info: 2020-03-05T15:56:08.715Z ::1 localhost 200 GET /
+info: 2020-03-05T15:56:15.383Z ::1 localhost 200 GET /resources
+info: Hello World:8080
+info: Couldn't find {"statusCode":400}
+info: Hello World:8080
+info: Couldn't find {"statusCode":404}
+info: Couldn't find {"statusCode":404}
+info: Couldn't find {"statusCode":404}
+info: 2020-03-05T15:59:09.532Z ::1 localhost 200 POST /resources
+info: 2020-03-05T15:59:24.597Z ::1 localhost 200 POST /resources
+info: 2020-03-05T15:59:28.342Z ::1 localhost 200 POST /resources
+info: Hello World:8080
+error: unexpected error. message: model.create is not a function
+info: Hello World:8080
+info: Hello World:8080
+info: Hello World:8080
+info: Hello World:8080
+info: Hello World:8080
+info: Hello World:8080
+info: Hello World:8080
+error: unexpected error. message: model.create is not a function
+info: Hello World:8080
+info: Hello World:8080
+info: Hello World:8080
