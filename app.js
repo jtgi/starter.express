@@ -1,5 +1,4 @@
 const express = require('express');
-const logger = require('./src/util/logger');
 
 const accessLoggerMiddleware = require('./src/middlewares/accessLoggerMiddleware');
 const errorHandlerMiddleware = require('./src/middlewares/errorHandlerMiddleware');
