@@ -4,9 +4,10 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "test": "exit 1",
-    "start": "node app.js",
-    "dev": "nodemon node app.js"
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "start": "node start.js",
+    "dev": "nodemon node start.js"
   },
   "author": "",
   "license": "ISC",
@@ -20,6 +21,14 @@
     "winston": "^3.2.1"
   },
   "devDependencies": {
-    "nodemon": "^2.0.2"
+    "jest": "^25.1.0",
+    "nodemon": "^2.0.2",
+    "supertest": "^4.0.2"
+  },
+  "jest": {
+    "testEnvironment": "node",
+    "coveragePathIgnorePatterns": [
+      "/node_modules/"
+    ]
   }
 }
